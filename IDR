@@ -1,6 +1,6 @@
 {
   "IDR/BUSD": {
-    "midPrice": 0.26,
+    "midPrice": 0.30,
     "long": {
       "up": 0.30,
       "down": 0.09
