@@ -1,8 +1,8 @@
 {
   "Binance": {
     "BTCUSDT": {
-      "ask": "1",
-      "bid": "2",
+      "ask": "40001",
+      "bid": "20001",
       "enabled": true
     }
   }
