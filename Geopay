@@ -1,5 +1,9 @@
 {
-    "Binance": {
-        "buy": "32.35555",
-        "sell": "32.458"
-    },
+  "Binance": {
+    "BTCUSDT": {
+      "ask": "1",
+      "bid": "2",
+      "enabled": true
+    }
+  }
+}
