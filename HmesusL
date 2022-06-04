@@ -1,7 +1,7 @@
 {
   "LOG/USDT": {  
-    "midPrice": 4.90,
-    "long": {
+    "midPrice": 6.44,
+    "long": 
       "up": 0.04,  
       "down": 0.02
     },
